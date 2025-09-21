@@ -8,6 +8,6 @@ Learning HTML Canvas through cool projects.
 
 - [OctopusFractals](https://mariam7084.github.io/LearningCanvas/OctopusFractals/)
 
-- [Tessellated Morphing Grid]()
+- [Tessellated Morphing Grid](https://mariam7084.github.io/LearningCanvas/Tessellated-Morphing-Grid/)
 
 - [MoirePattern](https://mariam7084.github.io/LearningCanvas/MoirePattern/)
